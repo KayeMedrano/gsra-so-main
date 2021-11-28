@@ -64,10 +64,10 @@ $tot = soController::totalamount();
 
         <br>
     <div>
-    <!-- <h6 class="collapse-header">Overall Number of Customers:
-        <?php #echo ' ' . $tot; ?>
+    <h6 class="collapse-header">Overall Number of Customers:
+        <?php echo ' ' . $tot; ?>
         <br>
-    </h6> -->
+    </h6>
     </div>
 
         <div class="table-responsive">
